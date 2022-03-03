@@ -1,2 +1,2 @@
 # mtv-basic
-:bulb: Estudo página básica em HTML - Criação de Layout no Photoshop
+:bulb: Estudo de página básica em HTML - Criação de Layout no Photoshop
